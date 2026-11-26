@@ -15,7 +15,7 @@ acolhimento, informação de qualidade, rede de apoio e defesa dos seus direitos
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![LGPD](https://img.shields.io/badge/LGPD-8A3A84?style=for-the-badge&logo=letsencrypt&logoColor=white)
+![Privacidade](https://img.shields.io/badge/Privacidade-8A3A84?style=for-the-badge&logo=letsencrypt&logoColor=white)
 
 </div>
 
